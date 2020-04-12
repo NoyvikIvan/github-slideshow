@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slede!"
 ---
-Your text
+Best typing :v:
 Use the left arrow to go back!
